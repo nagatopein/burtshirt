@@ -12,4 +12,6 @@ Some things that were changed on this webpage were:
 6. Ensure all links on the html work and navigate to the correct locations.
 7. Added html and css comments to help the browser and other developers understand the code and it's functions.
 
+# Horiseon Landing Page
+[Horiseon](https://nagatopein.github.io/burtshirt/)
 ![screenshot](./assets/images/horiseon.jpg)
